@@ -1,6 +1,6 @@
 #VideoJs Webpage
 
-## The videojs webpage play a merged video from videojs.com and after the video replaying it would still play from video1 follwed by next video.
+## The videojs webpage play a merged video from videojs.com and after the video replaying it would still play from video1 followed by next video.
 
 Do npm install --save-dev video.js
 
